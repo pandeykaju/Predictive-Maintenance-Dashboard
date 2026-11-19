@@ -1,0 +1,8 @@
+
+venv/
+__pycache__/
+*.pyc
+.git/
+.env
+*.log
+data/live_sensor_log.csv
